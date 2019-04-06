@@ -1,0 +1,3 @@
+test.txt | TxtWorker: 1 | No of infections: 2
+
+Au fost scanate 1 fisier(e) .txt si 1 fisier(e) .exe de catre 2 workeri.
